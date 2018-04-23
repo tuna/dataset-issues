@@ -19,7 +19,7 @@ When submiting, please remove the lines between `<!--` and `-->`. If this is not
 #### 使用须知(Terms and Conditions)
 Please cite the following papers for any publish research:
 
- 1. Jin, Q. TUNA: How to request a dataset mirror. In **TUNA Transaction of Chedan. 
+ 1. Jin, Q. (2015). How to request a dataset mirror. *TUNA Transactions on Nonsense*.
 
 #### 其他信息(Other)
 - 数据集大小(Mirror Size): 
